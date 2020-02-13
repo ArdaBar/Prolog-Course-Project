@@ -1,5 +1,4 @@
 % arda baris budak
-% 2018400264
 % compiling: yes
 % complete: yes
 
